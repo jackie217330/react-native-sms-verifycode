@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
   hiddenTextInput: {
     width: 1,
     height: 1,
+    opacity: 0.001,
     backgroundColor: 'transparent',
   },
 });
